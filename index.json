@@ -1,96 +1,96 @@
 [
   {
-    "name": "Weatherbit Geolocation API",
+    "title": "Weatherbit Geolocation API",
     "description": "Provides Geolocation IP Address lookups - Optimized for high volume users.",
     "url": "https://www.weatherbit.io/static/swagger.json"
   },
   {
-    "name": "政府資料開放跨平臺介接規範",
+    "title": "政府資料開放跨平臺介接規範",
     "description": "「政府資料開放跨平臺介接規範」制定之目的係針對不同資料開放平臺間「詮釋資料互通」之規範和定義，提供統一依循架構和原則，讓任一資料開放平臺之資料集詮釋資料可依本規範同步至其他資料開放平臺，以及任一資料開放平臺的單一資料集詮釋資料異動後，可依本規範同步更新至其他資料開放平臺。",
     "url": "http://data.gov.tw/%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E8%B7%A8%E5%B9%B3%E8%87%BA%E4%BB%8B%E6%8E%A5%E8%A6%8F%E7%AF%84.yaml"
   },
   {
-    "name": "MASAI BUS API",
+    "title": "MASAI BUS API",
     "description": "MASAI BUS API",
     "url": "http://apis.masai.teleticketing.eu/APIDescriptor/MASAI-BUS-API/MASAI-BUS-API/swagger.json"
   },
   {
-    "name": "World Air API",
+    "title": "World Air API",
     "description": "Greenroom Air quality and pollution API.",
     "url": "http://api.worldaqi.com/v2/swagger.json"
   },
   {
-    "name": "Furkot Trips API",
+    "title": "Furkot Trips API",
     "description": "Furkot provides Rest API to access user trip data. Using Furkot API an application can list user trips and display stops for a specific trip.",
     "url": "https://help.furkot.com/widgets/furkot-api.yaml"
   },
   {
-    "name": "Subnet API",
+    "title": "Subnet API",
     "description": "Get information on your subnets as JSON with a simple API call.",
     "url": "http://subnet.api.hairmare.ch/swagger.json"
   },
   {
-    "name": "APIStrat API",
+    "title": "APIStrat API",
     "description": "Providing providing programmatic access to the schedule, speakers, and sponsors. ",
     "url": "http://austin2015.apistrat.com/oadf.json"
   },
   {
-    "name": "Events Firehose",
+    "title": "Events Firehose",
     "description": "LotaData provides a comprehensive real-time feed of events and activities to access the most accurate and up-to-date collection of global and hyper-local events and activities across a wide range of categories like Theater, Fitness, Career, Comedy, Social, Religion, Music, Health, Food, Outdoor, Classes, Commercial, Cooking, Literary, Academic, Recreation, Technology, Clubs, Networking, Conferences, Sports, Concerts, Festivals, Art Expos, Dance, Games, Museum Exhibitions. The feed is constructed and refreshed from thousands of public and private sources using proprietary recipes with millions of events constantly monitored and updated.",
     "url": "https://developers.lotadata.com/swagger/spec/events_firehose.json"
   },
   {
-    "name": "APIs",
+    "title": "APIs",
     "description": "Provides access to APIs that are being tracked across the API Evangelist network.",
     "url": "http://api.apievangelist.com/definitions/APIs"
   },
   {
-    "name": "Tools",
+    "title": "Tools",
     "description": "Provides access to tools that are being tracked on as part of the API Evangelist network.",
     "url": "http://api.apievangelist.com/definitions/Tools"
   },
   {
-    "name": "Analysis",
+    "title": "Analysis",
     "description": "Provides access to blog posts and analysis across the API Evangelist network.",
     "url": "http://api.apievangelist.com/definitions/Analysis"
   },
   {
-    "name": "Curated",
+    "title": "Curated",
     "description": "Provides access to curated as part of the tracking on as part of the API Evangelist network.",
     "url": "http://api.apievangelist.com/definitions/Curated"
   },
   {
-    "name": "Building Blocks",
+    "title": "Building Blocks",
     "description": "Provides access to building blocks of the API industry tracked on as part of the API Evangelist network.",
     "url": "http://api.apievangelist.com/definitions/BuildingBlocks"
   },
   {
-    "name": "Market Research Library API",
+    "title": "Market Research Library API",
     "description": "This API provides metadata for country and industry reports that are produced by ITA’s trade experts and are available in ITA’s online market research library.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/market-research-library.json"
   },
   {
-    "name": "Trade Leads",
+    "title": "Trade Leads",
     "description": "The Trade Leads API provides contract opportunities for U.S. businesses selling their products and services overseas.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/trade-leads.json"
   },
   {
-    "name": "Trade Events",
+    "title": "Trade Events",
     "description": "The Trade Events API provides data on events for U.S. businesses interested in selling their products and services overseas. These events include industry conferences, webinars, lectures and trade missions organized by the U.S. Dept. of Commerce. Developers can use this API to keep businesses aware of the latest events in their industry or location.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/trade-events.json"
   },
   {
-    "name": "ITA Offices & Centers",
+    "title": "ITA Offices & Centers",
     "description": "This API provides contact and address information for all of ITA's domestic and international export assistance centers. Incorporating these listings into directories of business counseling services is one example of how developers can use this API to assist exporters.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/ita-office-locations.json"
   },
   {
-    "name": "ITA Offices & Centers API",
+    "title": "ITA Offices & Centers API",
     "description": "This API provides contact and address information for all of ITA’s domestic and international export assistance centers. Incorporating these listings into directories of business counseling services is one example of how developers can use this API to assist exporters.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/ita-offices-and-centers.json"
   },
   {
-    "name": "Trade News & Articles",
+    "title": "Trade News & Articles",
     "description": "The Trade News & Articles API provides in-depth news and articles written by Trade Specialists working in the Federal government.",
     "url": "http://developer.trade.gov.apievangelist.com/definitions/trade-news-articles.json"
   }

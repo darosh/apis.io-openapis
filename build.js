@@ -15,7 +15,7 @@ axios.get('http://apis.io/api/apis?limit=2500').then(res => {
     let list = res.data.data.filter(d =>
         (d.properties || []).concat(d.urls || []).filter(f => f.type.toLowerCase() === 'swagger').length
     ).map(d => ({
-        name: d.name,
+        title: d.name,
         description: d.description,
         url: (new URL((d.properties || []).concat(d.urls || []).filter(f => f.type.toLowerCase() === 'swagger')[0].url)).href
     })).filter(p => {
