@@ -1,0 +1,14 @@
+{
+  "name": "apis.io-openapis",
+  "description": "List of OpenAPI specifications in apis.io",
+  "version": "1.0.0",
+  "author": "Jan Forst",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.16.2",
+    "js-yaml": "^3.10.0"
+  },
+  "license": "MIT",
+  "main": "index.json",
+  "private": true
+}
