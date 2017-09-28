@@ -1,6 +1,6 @@
 {
   "name": "apis.io-openapis",
-  "description": "List of OpenAPI specifications in apis.io",
+  "description": "List of OpenAPI specifications in APIs.io",
   "version": "1.1.0",
   "author": "Jan Forst",
   "dependencies": {},
